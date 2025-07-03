@@ -1,6 +1,6 @@
-# 🧠 Machine Learning Learning Journey
+# 🧠 Machine Learning  Journey
 
-Welcome to my **Machine Learning Learning Repository**!  
+Welcome to my **Machine Learning  Repository**!  
 This is where I document my ML learning journey by exploring concepts, implementing algorithms, and sharing my code, notes, and experiments.  
 The goal is to learn-by-doing and improve step by step! 💪
 
@@ -74,7 +74,4 @@ This is a personal learning repo, but feel free to:
 
 ---
 
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
